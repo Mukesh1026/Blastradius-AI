@@ -551,7 +551,7 @@ Codex is not a runtime dependency of BlastRadius AI.
 
 ## Team, ownership and conduct
 
-BlastRadius AI is the joint work of **K Sai Krish Karthik** and **K Tanvi**.
+BlastRadius AI is the Work of Mukesh Reddy.C.
 
 The existing copyright attribution in [LICENSE](LICENSE) is unchanged.
 
